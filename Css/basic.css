@@ -10,5 +10,7 @@ pre {
     background-color: rgb(245, 43, 8);
 }
 div{
-    width: 200px;
+    width: 500px;
+    background-color: cyan;
+    
 }
