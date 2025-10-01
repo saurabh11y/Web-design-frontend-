@@ -1,5 +1,8 @@
-h5 {
-    background-color: aqua;
-    grid-column: auto;
+h1 {
+    background-color: #60e02e;
+    text-align: center; 
+}
+p {
     text-align: center;
+    color: black;
 }
