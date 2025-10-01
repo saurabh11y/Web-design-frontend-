@@ -6,3 +6,9 @@ p {
     text-align: center;
     color: black;
 }
+pre {
+    background-color: rgb(245, 43, 8);
+}
+div{
+    width: 200px;
+}
